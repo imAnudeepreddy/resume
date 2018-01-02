@@ -15,6 +15,10 @@ body{
 .arrowOne{
     display: none;
 }
+.content{
+    display:none;
+    margin-left:30px;
+  }
 .commonHeading{
     text-transform: uppercase;
     text-decoration: underline;
